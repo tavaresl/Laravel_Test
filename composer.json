@@ -1,0 +1,12 @@
+{
+    "name": "lucasrocha/laravel_test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Tavares",
+            "email": "lucastavaresdarocha@gmail.com"
+        }
+    ],
+    "require": {}
+}
